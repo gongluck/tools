@@ -1,39 +1,33 @@
-# Tools-Bin
+# tools
 
 工具程序收集仓库
 
-## [MobaXterm](./MobaXterm_Personal_20.5.exe)
+## [音视频](./av/)
 
-远程工具
+- [x] yuv
+  - [x] YUVPlayer
+- [x] h264
+  - [x] SpecialVH264
+- [x] aac
+  - [x] SpecialAAC
+- [x] flv
+  - [x] [FlvAnalyzer](https://github.com/zymill/flvAnalyser)
+- [x] mp4
+  - [x] mp4info
+- [x] 摄像头
+  - [x] [vcam](https://vcam.en.softonic.com/) 
 
-## [sokit](./sokit.exe)
+## [测试](./test/)
 
-网络测试工具
+- [x] 压力测试
+  - [x] [go-stress-testing](https://github.com/link1st/go-stress-testing)
 
-## [TcpUdp调试工具](./TcpUdp调试工具.apk)
+## [网络](./net/)
 
-安卓网络调试工具
-
-## [YUVPlayer](./YUVPlayer.exe)
-
-YUV格式播放测试工具
-
-## [SpecialVH264](./SpecialVH264.exe)
-
-H264格式分析工具
-
-## [SpecialAAC](./SpecialAAC.exe)
-
-AAC格式分析工具
-
-## [FlvAnalyzer](./FlvAnalyzer.exe)
-
-FLV格式分析工具
-
-## [mp4info](./mp4info.exe)
-
-MP4格式分析工具
-
-## [msys2](https://repo.msys2.org/)
-
-面向Windows的软件分发和构建平台
+- [x] 网络类型
+  - [x] [NatTypeTester](https://github.com/HMBSbige/NatTypeTester)
+- [x] 通信
+  - [x] [sokit](https://github.com/sinpolib/sokit)
+  - [x] TcpUdp 调试工具.apk
+- [x] 弱网模拟
+  - [x] [winShaper](https://github.com/catchpoint/WebPageTest.win-shaper)
